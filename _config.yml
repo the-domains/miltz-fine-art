@@ -1,4 +1,3 @@
-layout_spectrum: 0.005725956056267023
 typography_spectrum: 0.41964654345065355
 color:
   brandStrength: 0.965786149026826
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.005725956056267023
 name: Miltz Fine Art
+title: EVA Series
 description: Paintings from my archives
